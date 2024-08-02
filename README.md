@@ -4,7 +4,7 @@ This is a Calculator program created in Python, that calculates the Volume of so
 
 ## Instructions to Run the Program
 
-1) Run the 'main.py' or 'Area Calculator.exe' file.
+1) Run the 'main.py' or 'Volume Calculator.exe' file.
 
 2) A Menu Screen will appear where you are asked to select an option to get the Volume of your desired 3D shapes.
 
